@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  background: url(wood.jpg);
+  font-family: sans-serif;
+}
+
+form {
+  margin-top: 70px;
+  margin-left: 300px;
+}
+
+form #textBox {
+  font-size: 20px;
+  border-radius: 7px;
+  line-height: 50px;
+}
+
+h1 {
+  margin: 100px 0 0 300px;
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+}
+
+#search {
+    width: 120px;
+    background: #5bff55;
+    border-radius: 5px;
+    color: #000;
+    font-size:18px;
+    line-height: 20px;
+    padding: 5px 0;
+    text-shadow: 0 1px #68B25B;
+}
+
+ul li {
+  font-family: sans-serif;
+  display: inline-block;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+
+
+ul li img {
+  border-radius: 8px;
+
+} 
+
+
+ul li span {
+  color: darkblue;
+}
+
+ul li div {
+  background-image: url(plank.png);
+}
